@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="carry_mod"
+version="1.0"
+displayName="Akari's Scythe mod"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+#logoFile="logo.png"
+credits="Silly Silver"
+authors="Silly Silver"
+description='''
+Carry mod, this mod allows you to pick up and throw living entities by right clicking on them
+'''
